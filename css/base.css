@@ -1,0 +1,4 @@
+table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; }
+table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
+table thead tr { background-color: #8bb5de; color: #333; font-style: bold; }
+table tbody th, table tbody td { background-color: #eee; color: #333; margin:0; padding:8px 20px; text-align:center; border-bottom:1px solid #222; }
