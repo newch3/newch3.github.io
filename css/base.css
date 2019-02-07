@@ -4,6 +4,6 @@ h2 { text-align:center; }
 span.shead { color:#8bb5de; }
 table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; }
 table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
-table thead th { background-color:#8bb5de; font-style:bold; padding:8px 20px; }
+table thead th { background-color:#8bb5de; border-bottom:1px solid #222; font-style:bold; padding:8px 20px; }
 table tbody tr.past th, table tbody tr.past td { background-color:#aaa; }
 table tbody th, table tbody td { background-color:#eee; margin:0; padding:8px 20px; text-align:center; border-bottom:1px solid #222; }
