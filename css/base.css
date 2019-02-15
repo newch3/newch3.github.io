@@ -2,7 +2,7 @@ body { background-color: #f2f2f2; color: #333; font: 14px/20px "Lucida Grande", 
 h1 { font-style:italic; text-align:center; }
 h2 { text-align:center; }
 span.shead { color:#8bb5de; }
-table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; }
+table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; margin-bottom:40px; }
 table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
 table thead th { background-color:#8bb5de; border-bottom:1px solid #222; font-style:bold; padding:8px 20px; }
 table tbody tr.next th, table tbody tr.next td { background-color:#ffd700; }
