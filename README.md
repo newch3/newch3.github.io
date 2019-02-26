@@ -1,1 +1,1 @@
-N.E.W. Cotswolds Hash House Harriers
+N.E.W. Cotswold Hash House Harriers
