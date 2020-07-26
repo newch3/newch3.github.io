@@ -1,6 +1,7 @@
 a { color:#245ea6; }
 body { background-color: #f2f2f2; color: #333; font: 14px/20px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif; line-height: 1.8em; margin: 0 5%; text-align: center; }
 h1 { font-style:italic; }
+h3.covid { background-color:#cc9999; }
 span.shead { color:#245ea6; }
 table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; margin-bottom:40px; }
 table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
