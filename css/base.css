@@ -1,12 +1,12 @@
 a { color:#245ea6; }
 body { background: #f2f2f2 url("/images/header.png") no-repeat scroll center top; color: #333; font: 14px/20px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif; line-height: 1.8em; margin: 0 5%; text-align: center; }
-h1 { font-style:italic; margin-top: 280px; }
+h1 { font-style:italic; margin-top: 230px; }
 h3.covid { background-color:#cc9999; }
 span.shead { color:#245ea6; }
 table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; margin-bottom:40px; }
 table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
 table thead th { background-color:#8bb5de; border-bottom:1px solid #222; font-style:bold; padding:8px 2px; }
 table tbody tr th img { vertical-align: middle; }
-table tbody tr.next th, table tbody tr.next td { background-color:#ffd700; }
+table tbody tr.next th, table tbody tr.next td { background-color:#009969; color: #fff }
 table tbody tr.past th, table tbody tr.past td { background-color:#ddd; }
 table tbody th, table tbody td { background-color:#eee; margin:0; padding:8px 2px; text-align:center; border-bottom:1px solid #222; }
