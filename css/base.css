@@ -10,7 +10,6 @@ table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #e
 table thead th { background-color:#8bb5de; border-bottom:1px solid #222; font-style:bold; padding:8px 2px; }
 table tbody tr th img { vertical-align: middle; }
 table tbody tr.next th, table tbody tr.next td { background-color:#ffd700; }
-table tbody tr.st-patrick th { background-image:url("/images/shamrock.png"); background-position:1% center; background-repeat:no-repeat; }
-table tbody tr.st-patrick th, table tbody tr.st-patrick td, table tbody tr.st-patrick td a { background-color:#ff883e; color:#169b62; }
+table tbody tr.st-patrick th, table tbody tr.st-patrick td, table tbody tr.st-patrick td a { background-color:#169b62; color:#fff; }
 table tbody tr.past th, table tbody tr.past td { background-color:#ddd; }
 table tbody th, table tbody td { background-color:#eee; margin:0; padding:8px 2px; text-align:center; border-bottom:1px solid #222; }
