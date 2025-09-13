@@ -8,6 +8,7 @@ span.shead { color:#245ea6; }
 table { width:100%; border:1px solid #000; border-collapse:collapse; border-spacing:0; margin-bottom:40px; }
 table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
 table thead th { background-color:#8bb5de; border-bottom:1px solid #222; font-style:bold; padding:8px 2px; }
+table tbody tr td img { vertical-align: middle; }
 table tbody tr th img { vertical-align: middle; }
 table tbody tr.next th, table tbody tr.next td { background-color:#ffd700; }
 table tbody tr.st-patrick th, table tbody tr.st-patrick td, table tbody tr.st-patrick td a { background-color:#169b62; color:#fff; }
