@@ -8,9 +8,10 @@ table { width:100%; border:1px solid #000; border-collapse:collapse; border-spac
 table caption { margin:0; padding:8px 20px; background-color: #245ea6; color: #eee; text-align:center; border:1px solid #000; border-bottom:none; font-size:1.1428em; }
 table thead th { background-color:#8bb5de; border-bottom:1px solid #222; font-style:bold; padding:8px 2px; }
 table tbody tr td img { vertical-align: middle; }
+table tbody tr td.hares { font-style:italic; color: #f00; }
 table tbody tr th img { vertical-align: middle; }
 table tbody tr.next th, table tbody tr.next td { background-color:#ffd700; }
-table tbody tr.wales th, table tbody tr.wales td { background-color:#ffbbbb; }
+table tbody tr.wales th, table tbody tr.wales td { background-color:#fbb; }
 table tbody tr.st-patrick th, table tbody tr.st-patrick td, table tbody tr.st-patrick td a { background-color:#169b62; color:#fff; }
 table tbody tr.past th, table tbody tr.past td { background-color:#ddd; }
 table tbody th, table tbody td { background-color:#eee; margin:0; padding:8px 2px; text-align:center; border-bottom:1px solid #222; }
